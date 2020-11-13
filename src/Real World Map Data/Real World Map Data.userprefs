@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs">
+    <Files>
+      <File FileName="BaseOsmLib/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="BaseOsmLib/MercatorProjection.cs" Line="1" Column="1" />
+      <File FileName="BaseOsmLib/RoadMaker.cs" Line="1" Column="1" />
+      <File FileName="BaseOsmLib/BuildingMaker.cs" Line="1" Column="1" />
+      <File FileName="BaseOsmLib/BaseInfrastructureMaker.cs" Line="1" Column="1" />
+      <File FileName="BaseOsmLib/MapReader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Editor/OpenMapImporter/ImportMapWrapper.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Editor/OpenMapImporter/ImportMapDataEditorWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <StartupItems>
+    <String>Assembly-CSharp-Editor.csproj</String>
+  </StartupItems>
+</Properties>
